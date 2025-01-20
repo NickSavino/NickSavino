@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://avatars.githubusercontent.com/u/77707655?v=4" width="30"> </h1>
+<h1 align="center">Hello There</h1>
 
 [![My Statistics](https://github-readme-stats.vercel.app/api?username=NickSavino)](https://github.com/NickSavino/github-readme-stats)
 <!--
