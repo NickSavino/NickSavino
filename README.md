@@ -11,7 +11,7 @@
 🌱 &nbsp;I currently have professional experiene in Full Stack Web Developmnet.\
 ✍️ &nbsp;In my free time, I pursue like to and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at nicksavino2@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.nicola-savino.ca/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.nicola-savino.ca/resume) for more details about me. I'm open to feedback and suggestions!
 
 ## Pinned Repositories :pushpin:
 
