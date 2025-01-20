@@ -1,6 +1,6 @@
 <h1 align="center">Hello There</h1>
 
-[![My Statistics](https://github-readme-stats.vercel.app/api?username=NickSavino)](https://github.com/NickSavino/github-readme-stats)
+[![My Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSavino&theme=tokyonight&layout=compact)
 <!--
 **NickSavino/NickSavino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
