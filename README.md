@@ -15,6 +15,28 @@
 
 ## Pinned Repositories :pushpin:
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<a href="https://github.com/NickSavino/SiegeAndSorcery">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NickSavino&repo=SiegeAndSorcery&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+
+<a href="https://github.com/yesiamdaniel/calgaryhacks_2024">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yesiamdaniel&repo=calgaryhacks_2024&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+
+<a href="https://github.com/NickSavino/FreeCraft">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NickSavino&repo=FreeCraft&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+
+<a href="https://github.com/NickSavino/ObituaryApp">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NickSavino&repo=ObituaryApp&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+
+<a href="https://github.com/NickSavino/AWSReactApp">
+  <img align="center" style="margin:1rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NickSavino&repo=AWSReactApp&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+</div>
+
 ### Games and Application Development
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
